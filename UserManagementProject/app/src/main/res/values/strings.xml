@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UserManagement</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="login">Log In</string>
+    <string name="another_connect">Or Connect Using</string>
+    <string name="facebook">Facebook</string>
+    <string name="gmail">Google</string>
+    <string name="register">Do not have an account?</string>
+    <string name="sign_up">Sign Up !</string>
+    <string name="sign_up_dialog">Sign Up</string>
+    <string name="password_confirm">Password Confirmation</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register_dialog">Sign Up</string>
+    <string name="fullName">Full Name</string>
+    <string name="home_nav">Home</string>
+    <string name="account">Account</string>
+    <string name="profile_nav">Profile</string>
+    <string name="change_pass_nav">Change Password</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="splash_title">SPLASH SCREEN</string>
+    <string name="signOut_nav">Sign Out</string>
+    <string name="about_nav">About us</string>
+</resources>
